@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.studio/
+.env
+.env.*
+!.env.example
+*.log
+*.backup.txt
+asthetic/
+/preview-*.png
+/preview-*.jpg
+/verification-*.txt
+/ChatGPT Image*.jpg
+.DS_Store
+Thumbs.db

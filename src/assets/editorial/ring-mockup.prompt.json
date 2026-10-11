@@ -1,0 +1,6 @@
+{
+  "name": "ring",
+  "useCase": "product-mockup",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: product-mockup. Asset type: first product gallery photograph for Behara. Reference image is jewelry shape/material only. Generate a clean luxury catalog studio photograph of one softly rounded wide yellow gold band ring with closely spaced vertical flutes, exactly the ring design in the reference. Isolate the jewelry centered on a seamless pale warm ivory background (#f0e8d8), generous blank space on all sides, object occupies approximately 45% of frame, three-quarter view clearly showing its shape, square composition. Soft diffused studio lighting, subtle realistic contact shadow, refined reflective yellow gold, crisp edges, accurate believable construction. No people, hands, fabric, plates, cars, props, text, logos, stones or pearls. Preserve the gold design. Minimal catalog mockup like an upscale online jewelry shop."
+}

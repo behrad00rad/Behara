@@ -1,0 +1,229 @@
+{
+  "interval": 10,
+  "campaigns": [
+    {
+      "id": "the-arrival",
+      "src": "/images/campaign-car-vintage-1536.webp",
+      "alt": "Gold jewelry worn at the open window of a moss-green vintage car",
+      "title": "Gold, in your own light.",
+      "fa": "همراهِ لحظه‌های تو.",
+      "enabled": true,
+      "position": 44,
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "the-gold-edit",
+      "src": "/images/campaign-vintage-1536.webp",
+      "alt": "Gold jewelry editorial portrait in ivory and black tailoring",
+      "title": "An everyday expression.",
+      "fa": "کمی طلا، برای هر روز.",
+      "enabled": true,
+      "position": 78,
+      "start": "",
+      "end": ""
+    }
+  ],
+  "pieces": [
+    {
+      "id": "01",
+      "name": "The Mehr Ring",
+      "fa": "انگشتر مهر",
+      "kind": "ring",
+      "category": "Rings",
+      "image": "ring-vintage",
+      "detail": "A softly rounded band, interrupted by a rhythm of fine flutes. A small sculpture that catches the light with every movement.",
+      "images": [
+        {
+          "src": "/images/ring-mockup-1536.webp",
+          "role": "mockup",
+          "alt": "The Mehr Ring — studio mockup"
+        },
+        {
+          "src": "/images/ring-vintage-1536.webp",
+          "role": "editorial",
+          "alt": "The Mehr Ring — editorial photograph"
+        },
+        {
+          "src": "/images/ring-vintage-detail-1536.webp",
+          "role": "detail",
+          "alt": "The Mehr Ring — detail photograph"
+        }
+      ],
+      "status": "published",
+      "price": null,
+      "stock": null,
+      "weight": null,
+      "purity": "",
+      "sku": "",
+      "materials": "",
+      "materialsFa": "",
+      "detailFa": "شیارهای ظریف روی یک حلقه گرد، نور را با حرکت دست جابه‌جا می‌کنند. فرمی ساده برای پوشیدن هر روز.",
+      "featured": false
+    },
+    {
+      "id": "02",
+      "name": "The Kaman Hoops",
+      "fa": "گوشواره کمان",
+      "kind": "earrings",
+      "category": "Earrings",
+      "image": "earrings-vintage",
+      "detail": "An elongated open silhouette. Rounded gold surfaces bring a sculptural presence to a familiar everyday form.",
+      "images": [
+        {
+          "src": "/images/earrings-mockup-1536.webp",
+          "role": "mockup",
+          "alt": "The Kaman Hoops — studio mockup"
+        },
+        {
+          "src": "/images/earrings-vintage-1536.webp",
+          "role": "editorial",
+          "alt": "The Kaman Hoops — editorial photograph"
+        },
+        {
+          "src": "/images/earrings-vintage-detail-1536.webp",
+          "role": "detail",
+          "alt": "The Kaman Hoops — detail photograph"
+        }
+      ],
+      "status": "published",
+      "price": null,
+      "stock": null,
+      "weight": null,
+      "purity": "",
+      "sku": "",
+      "materials": "",
+      "materialsFa": "",
+      "detailFa": "حلقه‌های کشیده با سطحی نرم و صیقلی؛ یک فرم آشنا با خطوطی آرام و کمی متفاوت.",
+      "featured": false
+    },
+    {
+      "id": "03",
+      "name": "The Nam Pendant",
+      "fa": "گردنبند نم",
+      "kind": "pendant",
+      "category": "Necklaces",
+      "image": "pendant-vintage",
+      "detail": "A polished organic drop, suspended from a fine chain. A quiet study in balance and the beauty of the essentials.",
+      "images": [
+        {
+          "src": "/images/pendant-mockup-1536.webp",
+          "role": "mockup",
+          "alt": "The Nam Pendant — studio mockup"
+        },
+        {
+          "src": "/images/pendant-vintage-1536.webp",
+          "role": "editorial",
+          "alt": "The Nam Pendant — editorial photograph"
+        },
+        {
+          "src": "/images/pendant-vintage-detail-1536.webp",
+          "role": "detail",
+          "alt": "The Nam Pendant — detail photograph"
+        }
+      ],
+      "status": "published",
+      "price": null,
+      "stock": null,
+      "weight": null,
+      "purity": "",
+      "sku": "",
+      "materials": "",
+      "materialsFa": "",
+      "detailFa": "قطره‌ای صیقلی روی زنجیری ظریف؛ الهام‌گرفته از سادگی یک قطره باران، نزدیک و همراه.",
+      "featured": false
+    },
+    {
+      "id": "04",
+      "name": "The Madar Cuff",
+      "fa": "دستبند مدار",
+      "kind": "cuff",
+      "category": "Bracelets",
+      "image": "cuff-vintage",
+      "detail": "A smooth, open curve shaped around negative space. A fluid line of gold that follows the wrist.",
+      "images": [
+        {
+          "src": "/images/cuff-mockup-1536.webp",
+          "role": "mockup",
+          "alt": "The Madar Cuff — studio mockup"
+        },
+        {
+          "src": "/images/cuff-vintage-1536.webp",
+          "role": "editorial",
+          "alt": "The Madar Cuff — editorial photograph"
+        },
+        {
+          "src": "/images/cuff-vintage-detail-1536.webp",
+          "role": "detail",
+          "alt": "The Madar Cuff — detail photograph"
+        }
+      ],
+      "status": "published",
+      "price": null,
+      "stock": null,
+      "weight": null,
+      "purity": "",
+      "sku": "",
+      "materials": "",
+      "materialsFa": "",
+      "detailFa": "یک قوس باز با سطحی نرم؛ فضای خالی میان دو سر دستبند، بخشی از طراحی آن است.",
+      "featured": false
+    }
+  ],
+  "site": {
+    "intro": {
+      "enabled": true,
+      "eyebrow": "THE EVERYDAY COLLECTION",
+      "eyebrowFa": "مجموعه روزمره به‌آرا",
+      "title": "A little gold, every day.",
+      "titleFa": "کمی طلا، برای هر روز.",
+      "text": "Four sculptural forms. Find the piece you would make your own.",
+      "textFa": "چهار فرم ساده؛ انگشتر، گوشواره، گردنبند و دستبند. آن‌که به دلت می‌نشیند، انتخاب کن."
+    },
+    "editorialOne": {
+      "enabled": true,
+      "eyebrow": "THE MEHR RING",
+      "eyebrowFa": "انگشتر مهر",
+      "title": "In the details.",
+      "titleFa": "نور، میان شیارها.",
+      "button": "Discover the ring",
+      "buttonFa": "دیدن انگشتر",
+      "image": "/images/ring-vintage-1536.webp",
+      "link": "/pieces/01"
+    },
+    "editorialTwo": {
+      "enabled": true,
+      "eyebrow": "THE KAMAN HOOPS",
+      "eyebrowFa": "گوشواره کمان",
+      "title": "An everyday expression.",
+      "titleFa": "یک قوس، هر روز.",
+      "button": "Discover the hoops",
+      "buttonFa": "دیدن گوشواره",
+      "image": "/images/earrings-vintage-1536.webp",
+      "link": "/pieces/02"
+    },
+    "story": {
+      "enabled": true,
+      "eyebrow": "THE WORLD OF BEHARA",
+      "eyebrowFa": "دنیای به‌آرا",
+      "title": "From our family, in Rasht.",
+      "titleFa": "از خانواده ما، در رشت.",
+      "text": "Behara is a new chapter for our family in Rasht. A place for everyday gold and gifts chosen with someone in mind.",
+      "textFa": "به‌آرا فصل تازه‌ای برای خانواده ما در رشت است؛ خانه‌ای برای طلای روزمره و هدیه‌هایی که با فکرِ یک نفر انتخاب می‌شوند.",
+      "button": "Discover the pendant",
+      "buttonFa": "دیدن گردنبند",
+      "image": "/images/pendant-vintage-1536.webp",
+      "link": "/pieces/03"
+    },
+    "footer": {
+      "enabled": true,
+      "eyebrow": "A FAMILY NAME. A NEW CHAPTER.",
+      "eyebrowFa": "نامی خانوادگی، فصلی تازه.",
+      "title": "Gold for your everyday.",
+      "titleFa": "طلا، همراه هر روزت.",
+      "text": "A family jewelry house taking shape in Rasht. Everyday pieces, thoughtful gifts, and a little gold to call your own.",
+      "textFa": "به‌آرا؛ خانه‌ای خانوادگی برای طلا، در حال شکل‌گیری در خیابان رشتیان رشت. برای انتخاب‌های روزمره و هدیه‌های کوچک و ماندگار."
+    }
+  },
+  "revision": 1
+}

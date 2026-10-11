@@ -1,0 +1,33 @@
+{
+  "generator": "Built-in image_gen",
+  "disclosure": "AI-generated concept photography; not photographs of actual inventory.",
+  "images": {
+    "campaign": {
+      "prompt": "Wide luxury jewelry editorial photograph. Adult woman with slicked dark hair in burgundy silk, profile portrait with elongated gold hoops and fluted ring; warm charcoal plaster studio, side lighting, dark negative space for website wordmark. Natural skin texture. No text or logos."
+    },
+    "ring": {
+      "prompt": "Portrait editorial closeup of an adult woman's hand resting against burgundy silk, one thick rounded fluted yellow gold band with fine flutes. Warm ivory light, deep wine shadows, natural skin texture. No text or logos."
+    },
+    "earrings": {
+      "prompt": "Portrait editorial cropped profile of adult woman with slicked dark hair, elongated open oval rounded yellow gold hoop. Burgundy silk, dark plaster studio, warm ivory side lighting. Natural skin texture, no text or logos."
+    },
+    "pendant": {
+      "prompt": "Portrait editorial closeup of adult woman's collarbone and lower neck, burgundy draped silk, small polished gold teardrop on fine chain. Warm ivory light, deep wine shadows. Natural skin texture, no text or logos."
+    },
+    "cuff": {
+      "prompt": "Portrait editorial closeup of adult woman's wrist and relaxed hand over burgundy silk, smooth rounded open oval yellow gold cuff. Warm cream highlights, deep wine shadows. Natural skin texture, no text or logos."
+    },
+    "ring-detail": {
+      "prompt": "Portrait luxury jewelry still-life macro photograph 1024x1536, a thick rounded polished yellow gold band with fine straight fluted ridges around the circumference, leaning on a warm ivory travertine block with burgundy silk draped behind. Gold highlights, shallow depth of field, quiet fashion editorial studio photograph. Ring is real-life size and fills center half of frame, visible open center, no gems. No text, no logos."
+    },
+    "earrings-detail": {
+      "prompt": "Portrait luxury jewelry still-life macro photograph 1024x1536, a pair of elongated open oval yellow gold hoop earrings with rounded thick wire, placed on warm ivory travertine with burgundy silk background. Gold warm highlights, shallow depth of field, quiet fashion editorial studio photography. No gemstones, no text, no logos."
+    },
+    "pendant-detail": {
+      "prompt": "Portrait luxury jewelry still-life macro photograph 1024x1536, small polished yellow gold organic teardrop pendant on delicate fine chain laid gracefully on warm ivory travertine stone with burgundy silk fabric behind. Warm gold highlights, shallow depth of field, quiet fashion editorial studio photography. No gemstones, no text or logos."
+    },
+    "cuff-detail": {
+      "prompt": "Portrait luxury jewelry still-life macro photograph 1024x1536, a smooth rounded open oval yellow gold cuff bracelet, balanced on warm ivory travertine block with burgundy silk fabric behind. Warm gold highlights, shallow depth of field, quiet fashion editorial studio photography. Rounded thick gold wire with small open gap, no gemstones, no text or logos."
+    }
+  }
+}

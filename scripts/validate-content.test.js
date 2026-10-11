@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {validateContent} from './validate-content.js';
+const fixture=()=>JSON.parse(readFileSync(new URL('../public/content/gallery.json',import.meta.url),'utf8'));
+test('catalog accepts an empty published collection and recoverable deleted pieces',()=>{const data=fixture();data.trash=[...data.pieces];data.pieces=[];assert.equal(validateContent(data).pieces.length,0);});
+test('new product identifiers are accepted, fixed four-product limit is removed',()=>{const data=fixture();data.pieces.push({...structuredClone(data.pieces[0]),id:'new-gold-piece',sku:'NEW-01',status:'draft'});assert.equal(validateContent(data).pieces.length,5);});
+test('duplicate identifiers across trash and catalog cannot overwrite restored pieces',()=>{const data=fixture();data.trash=[data.pieces[0]];assert.throws(()=>validateContent(data),/unique/);});
+test('invalid product image URLs, negative inventory and fractional quantities are rejected',()=>{for(const modify of [d=>d.pieces[0].images[0].src='javascript:alert(1)',d=>d.pieces[0].stock=-1,d=>d.pieces[0].stock=1.5]){const data=fixture();modify(data);assert.throws(()=>validateContent(data));}});
+test('zero stock and zero price remain valid values',()=>{const data=fixture();data.pieces[0].stock=0;data.pieces[0].price=0;validateContent(data);});
+test('empty galleries and duplicate SKUs are rejected',()=>{const data=fixture();data.pieces[0].images=[];assert.throws(()=>validateContent(data),/images/);const another=fixture();another.pieces[0].sku=another.pieces[1].sku='REPEATED';assert.throws(()=>validateContent(another),/SKUs/);});
+test('unsafe homepage links and inverted campaign schedules are rejected',()=>{const data=fixture();data.site.story.link='//other-site.example';assert.throws(()=>validateContent(data),/local website path/);const another=fixture();another.campaigns[0].start='2030-01-02T00:00:00Z';another.campaigns[0].end='2030-01-01T00:00:00Z';assert.throws(()=>validateContent(another),/after/);});

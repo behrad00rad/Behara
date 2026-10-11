@@ -1,0 +1,58 @@
+{
+  "generator": "Built-in image_gen",
+  "referenceFolder": "D:/jewelry/asthetic",
+  "disclosure": "AI-generated editorial concepts; not actual inventory photography.",
+  "palette": {
+    "parchment": "#eee8dc",
+    "olive": "#41483b",
+    "charcoal": "#292a25",
+    "gold": "#aa905e"
+  },
+  "images": [
+    {
+      "name": "campaign-vintage",
+      "prompt": "Original luxury jewelry editorial photograph, inspired by the attached reference's mood only; do not reproduce composition, branding, text, watermarks or additional jewelry designs. Warm analog film grain, understated 1980s fashion archive atmosphere, parchment cream, charcoal, antique yellow gold and muted sage. Realistic anatomy, natural skin, refined art direction. No text, no logo. Landscape 1536x1024 campaign. Intimate cropped portrait of adult dark-haired woman in black tailored jacket and ivory fluffy collar, one hand near her face wearing a thick rounded fluted yellow-gold ring and a smooth open oval gold cuff. Elongated oval gold hoop visible. Moody olive-gray background, soft sunlight. Face and hands central with spacious dark top area for website wordmark.",
+      "ref": "0090038b906bf3209ae3d76fbd064d93.jpg"
+    },
+    {
+      "name": "ring-vintage",
+      "prompt": "Original luxury jewelry editorial photograph, inspired by the attached reference's mood only; do not reproduce composition, branding, text, watermarks or additional jewelry designs. Warm analog film grain, understated 1980s fashion archive atmosphere, parchment cream, charcoal, antique yellow gold and muted sage. Realistic anatomy, natural skin, refined art direction. No text, no logo. Portrait closeup, a woman's hand with a SINGLE thick softly rounded yellow-gold band with closely spaced fine flutes, resting against ivory faux fur. Cropped tactile intimate fashion image; warm olive shadows, no other rings.",
+      "ref": "0090038b906bf3209ae3d76fbd064d93.jpg"
+    },
+    {
+      "name": "earrings-vintage",
+      "prompt": "Original luxury jewelry editorial photograph, inspired by the attached reference's mood only; do not reproduce composition, branding, text, watermarks or additional jewelry designs. Warm analog film grain, understated 1980s fashion archive atmosphere, parchment cream, charcoal, antique yellow gold and muted sage. Realistic anatomy, natural skin, refined art direction. No text, no logo. Portrait tightly cropped adult woman's ear, jaw and neck with one elongated open oval rounded yellow-gold hoop. Black tailored jacket, slicked dark hair. Sunlit taupe wall, subdued film colors and intimate archival fashion framing.",
+      "ref": "707c900ccb276fd676e31c1550791e6d.jpg"
+    },
+    {
+      "name": "pendant-vintage",
+      "prompt": "Original vintage jewelry fashion editorial photograph, portrait format. Adult woman wearing a fully buttoned ivory collared shirt and black tailored jacket. A small polished yellow-gold teardrop pendant on a fine chain worn OVER the shirt, jewelry clearly visible against ivory fabric. Crop from chin to waist, hands resting on a folded cream newspaper. Modest formal styling, warm muted analog film grain, sage-gray studio background, 1980s archival luxury atmosphere, natural daylight. No text, no logos, no other jewelry. The attached reference is for the vintage tailoring and color mood only.",
+      "ref": "a71142f827c3ab5f08ebafc376acab2d.jpg"
+    },
+    {
+      "name": "cuff-vintage",
+      "prompt": "Original luxury jewelry editorial photograph, inspired by the attached reference's mood only; do not reproduce composition, branding, text, watermarks or additional jewelry designs. Warm analog film grain, understated 1980s fashion archive atmosphere, parchment cream, charcoal, antique yellow gold and muted sage. Realistic anatomy, natural skin, refined art direction. No text, no logo. Portrait cropped wrist and hand resting on old cream newspaper, black tailored sleeve, single smooth open oval yellow-gold cuff. Newspaper has indistinct illegible columns. Archival direct flash, golden skin, black and parchment.",
+      "ref": "a71142f827c3ab5f08ebafc376acab2d.jpg"
+    },
+    {
+      "name": "ring-vintage-detail",
+      "prompt": "Original luxury jewelry editorial photograph, inspired by the attached reference's mood only; do not reproduce composition, branding, text, watermarks or additional jewelry designs. Warm analog film grain, understated 1980s fashion archive atmosphere, parchment cream, charcoal, antique yellow gold and muted sage. Realistic anatomy, natural skin, refined art direction. No text, no logo. Portrait still life of ONE thick rounded finely fluted yellow-gold band on vintage ivory ceramic saucer beside antique silver spoon, cream linen table. Close macro, tactile grain, gentle daylight. Entire ring visible.",
+      "ref": "fa380c815b25b18339fcbf09a107c0c8.jpg"
+    },
+    {
+      "name": "earrings-vintage-detail",
+      "prompt": "Original luxury jewelry editorial photograph, inspired by the attached reference's mood only; do not reproduce composition, branding, text, watermarks or additional jewelry designs. Warm analog film grain, understated 1980s fashion archive atmosphere, parchment cream, charcoal, antique yellow gold and muted sage. Realistic anatomy, natural skin, refined art direction. No text, no logo. Portrait macro still life of a PAIR of elongated open oval yellow-gold hoops with rounded tubular surfaces, resting on yellowed cream paper beside black sheer glove. Delicate shadows, muted taupe and cream, entire pieces visible.",
+      "ref": "707c900ccb276fd676e31c1550791e6d.jpg"
+    },
+    {
+      "name": "pendant-vintage-detail",
+      "prompt": "Original luxury jewelry editorial photograph, inspired by the attached reference's mood only; do not reproduce composition, branding, text, watermarks or additional jewelry designs. Warm analog film grain, understated 1980s fashion archive atmosphere, parchment cream, charcoal, antique yellow gold and muted sage. Realistic anatomy, natural skin, refined art direction. No text, no logo. Portrait closeup still life of single polished yellow-gold teardrop pendant on fine gold chain delicately draped over chrome door handle of muted sage vintage car. Warm afternoon sun, tactile film grain, no text, entire pendant visible.",
+      "ref": "aa8321c18579fe73b5641a5c4ba8fc47.jpg"
+    },
+    {
+      "name": "cuff-vintage-detail",
+      "prompt": "Original luxury jewelry editorial photograph, inspired by the attached reference's mood only; do not reproduce composition, branding, text, watermarks or additional jewelry designs. Warm analog film grain, understated 1980s fashion archive atmosphere, parchment cream, charcoal, antique yellow gold and muted sage. Realistic anatomy, natural skin, refined art direction. No text, no logo. Portrait still life of single smooth open oval yellow-gold cuff on ivory ceramic plate beside antique silver cutlery, cream linen table. Warm flash, natural grain, intimate vintage luxury. Entire cuff visible.",
+      "ref": "fa380c815b25b18339fcbf09a107c0c8.jpg"
+    }
+  ]
+}
