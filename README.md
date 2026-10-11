@@ -4,7 +4,7 @@ An editorial jewelry gallery and Persian brand identity for a family business ta
 
 **Scope:** brand identity · logo design · art direction · UI/UX · frontend development · local content management.
 
-![Behara campaign homepage](docs/screenshots/homepage.png)
+![Behara campaign homepage](docs/screenshots/homepage.jpg)
 
 ## The design
 
@@ -22,7 +22,7 @@ Typography combines Cormorant Garamond, Manrope, Vazirmatn and the bundled Persi
 
 [Explore the identity assets](public/brand/) · [Logo SVG](public/brand/behara-logo-v3.svg) · [Brand guidelines](public/brand/identity-v3.md)
 
-![Behara logo, lockup and palette](docs/screenshots/brand-identity.png)
+![Behara logo, lockup and palette](docs/screenshots/brand-identity.jpg)
 
 ## Experience
 
@@ -35,9 +35,9 @@ Typography combines Cormorant Garamond, Manrope, Vazirmatn and the bundled Persi
 - **Responsive product pages:** compact mobile galleries, larger touch targets and a persistent wishlist action.
 - **Reduced motion:** animated transitions and auto-rotation respect the visitor's preference.
 
-![Product gallery with a studio mockup](docs/screenshots/product.png)
+![Product gallery with a studio mockup](docs/screenshots/product.jpg)
 
-<p align="center"><img src="docs/screenshots/mobile-product.png" width="320" alt="Persian mobile product page and persistent wishlist action"></p>
+<p align="center"><img src="docs/screenshots/mobile-product.jpg" width="320" alt="Persian mobile product page and persistent wishlist action"></p>
 
 ## Local studio
 
@@ -105,3 +105,4 @@ To regenerate responsive images, install Python and Pillow, then run `python scr
 The visual identity combines an AI-assisted calligraphic concept with SVG contour tracing and a consistent layout system. Campaign and mockup images were created with the built-in ImageGen tool; prompt records are retained with the assets. These visuals describe a concept collection and are not evidence of physical inventory. The logo is a design concept, not a claim of trademark registration.
 
 The theme and motion foundation draws from the author's Benico project; the language curtain draws from the author's portfolio. Behara has its own palette, content, identity and jewelry-specific interactions. Bundled font licenses are included in `src/assets/fonts/`. Mood references and private local files are deliberately excluded from the repository.
+
